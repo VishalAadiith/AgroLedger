@@ -67,7 +67,6 @@ To run this project, you need to have the following installed on your system:
 [![Product Info](/Screenshots/Screenshot(301).png)]()
 
 
-
 ## 🚀 Deployment <a name = "deployment"></a>
 Live Demo is deployed at [Live Demo](https://agro-ledger.vercel.app/) through Vercel!
 
